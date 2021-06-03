@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Seasonable memento for all that have voyces in the choyce of a Parliament</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58932</idno><idno type="EEBO-CITATION">16273380</idno>
+  <idno type="VID">105234</idno>
+  <idno type="EEBO-PROQUEST">2240873071</idno>
+  
+            <idno type="STC">Wing S2233</idno>
+            <idno type="STC">ESTC R37238</idno>
+            <idno type="OCLC">16273380</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58932)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105234)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1157:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Seasonable memento for all that have voyces in the choyce of a Parliament</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for honest Tom Trueman,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Anti-Catholicism --  England.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:105234:1"/>
+            <head>A <hi>Seasonable Memento,</hi> For all that have Voyces in the Choyce of A PARLIAMENT.</head>
+            <lg>
+               <l>1. WOuld you be free from all the Yoaks of <hi>Rome?</hi>
+               </l>
+               <l>And sit in Peace and quiet at your Home?</l>
+               <l>2. Would you be free from Jesuite and Pope?</l>
+               <l>Would you be free from Fire Sledg and Rope</l>
+               <l>3. Would you be Free-born-Subjects as you are,</l>
+               <l>To whom you give your Votes, then have a care.</l>
+               <l>4. Beware of all Abhorrors, such as they,</l>
+               <l>Would quickly give three Kingdoms quite away.</l>
+               <l>5. What an <hi>Abhorror!</hi> I abhor his Name,</l>
+               <l>Abhorring Clothes him with a lasting Shame;</l>
+               <l>6. He smells so Rank of <hi>Rome</hi> I've understood,</l>
+               <l>He never was, nor never will be good.</l>
+               <l>7. Abhor the Thoughts of him, who ever stands,</l>
+               <l>Put all Abhorrors off with both your hands.</l>
+               <l>8. Let them shew ne're so Fair, unshut your Eyes,</l>
+               <l>And you will find them Papists in Disguise.</l>
+               <l>9. Beware of such as Countenance these Blades,</l>
+               <l>(Tho otherwise they look) they'l prove but Jades.</l>
+               <l>10. When they should Ride for Kingdom's good, I doubt,</l>
+               <l>They'l all be troubled with the Cramp or Gout.</l>
+               <l>It's these Abhorrors, only, such as they,</l>
+               <l>Who gladly King and Kingdom would betray;</l>
+               <l>Pull off their Vizzards, look upon their Faces,</l>
+               <l>And you'l abhor Abhorrors in all places.</l>
+               <l>You'l see a Roman Nose betwixt their Eyes,</l>
+               <l>And under that polluted Lips there lies;</l>
+               <l>Between those Lips a double Tongue doth Rest,</l>
+               <l>Below you'l find a damn'd deceitful Brest;</l>
+               <l>A hollow Heart, in which the Pope resides,</l>
+               <l>From whence Abhorring, and such baseness slides.</l>
+               <l>Next have a care of Pensioners I pray you,</l>
+               <l>With the Popes Coyn, I greatly fear they'l pay you;</l>
+               <l>They do not care who sinks, nor what man swims,</l>
+               <l>For Pope or Devil, they'l venture Life or Limbs.</l>
+               <l>They'l Vote for <hi>Noll, Mogul,</hi> for Devil or for Turk,</l>
+               <l>My Life for yours, they'l quickly do your work.</l>
+               <l>It's hard to know them, but they're vainly given,</l>
+               <l>For mony they will Vote, 'gainst God in Heaven.</l>
+               <l>Have you not often heard the Quaker say—</l>
+               <l>That such and such are Hirelings, it is they;</l>
+               <l>For it's well know'n, they only Vote for pay.</l>
+               <pb n="2" facs="tcp:105234:2"/>
+               <l>'Tis such as they that bring you to the Noose,</l>
+               <l>For be it know'n, these Blades have nought to loose.</l>
+               <l>Then have a care of Weather-Cocks, such Men,</l>
+               <l>As now turn here, and there, and here again;</l>
+               <l>Such Shettel-cocks are fit for Boys to toss,</l>
+               <l>To choose such Coxcombes, will be to your loss.</l>
+               <l>Who shall we choose, methinks I hear you say,</l>
+               <l>Choose whom you will, excepting such as they.</l>
+               <l>Choose Solid sober Men, of good esteem,</l>
+               <l>That may our King from Ruine soon Redeem.</l>
+               <l>Choose such as hates the Pope, as much as Devil,</l>
+               <l>Choose such, and they will free you from all Evil;</l>
+               <l>Choose Upright honest Men, who will stand by you,</l>
+               <l>When <hi>Rome</hi> and French begin to creep too nigh you.</l>
+               <l>To such as <hi>Player,</hi> and Sir <hi>Patience Ward,</hi>
+               </l>
+               <l>To such as <hi>Winnington,</hi> have great Regard.</l>
+               <l>It's such as <hi>Maynord, Pemberton</hi> and <hi>Burtch,</hi>
+               </l>
+               <l>That will not leave Electors in the Lurch.</l>
+               <l>Away with foolish <hi>Peyton, Withins</hi> too,</l>
+               <l>The King and Kingdom may such Choyces Rue.</l>
+               <l>The Plot gets ground, by such faint-hearted-Fools,</l>
+               <l>Who are less fit for Members, than for Owles.</l>
+               <l>
+                  <hi>Adkins</hi> has nobly Acted for our good,</l>
+               <l>To all but Papists it is understood;</l>
+               <l>Wisely they chose him, but alas! how soon,</l>
+               <l>Was that small piece of Honour tumbled down.</l>
+               <l>To all our Griefs, to every good Man's sorrow,</l>
+               <l>Chosen to day, and out again to morrow.</l>
+               <l>To't again, bold Free-Holders, with one Heart;</l>
+               <l>Begin afresh to Act the second part.</l>
+               <l>Do you your Duty, make an honest Choyce,</l>
+               <l>To make the King and Kingdom both Rejoyce.</l>
+               <l>Be bold as Lyons, what can do you harm,</l>
+               <l>It's a good Cause, that keeps your Courage warm.</l>
+               <l>Now, now's the time, stand up for publick good,</l>
+               <l>Rather than Flinch wade through a Sea of Blood.</l>
+               <l>The King has promis'd help to rout the Pope,</l>
+               <l>And yours will not be wanting, Sirs, I hope.</l>
+               <l>Choose such as hate that bloody minded Crew,</l>
+               <l>And we in time may give the Pope his due.</l>
+               <l>If you throw Votes away to Popish Friends,</l>
+               <l>Then take Releases, for your Leases Ends.</l>
+               <l>You that are now Freeholders, farwell Lands,</l>
+               <l>If e're a Popish Prince gets them in's hands.</l>
+               <l>Beware of giving Votes for such as those,</l>
+               <l>As have appeard both King and Kingdoms Foes.</l>
+               <l>A Votes soon gon, that never can be gain'd,</l>
+               <l>Lose it but now, 't may never be obtain'd.</l>
+               <l>Let not deluding words, or Wine, or Beer,</l>
+               <l>Or threatning Language, or a Slavish Fear;</l>
+               <l>Perswade you for to throw away your Voates,</l>
+               <l>On such as soonest will cut all your Throats.</l>
+               <l>Vote for good Men, and God will be their Guides.</l>
+               <l>To overthrow the Pope and Devil besides.</l>
+               <l>Then we in Peace, at our own homes may sing,</l>
+               <l>A Pox Confound the Pope, God bless the King.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for honest <hi>Tom Trueman.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
